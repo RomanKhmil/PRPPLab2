@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.0.32014.148
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{9A1FCFEB-9498-4418-854D-EEDFB8F7351A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebitCard", "DebitCard\DebitCard.csproj", "{D00586A9-B5AC-4E7D-8636-2C2DA97A0472}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{9A1FCFEB-9498-4418-854D-EEDFB8F7351A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A1FCFEB-9498-4418-854D-EEDFB8F7351A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A1FCFEB-9498-4418-854D-EEDFB8F7351A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D00586A9-B5AC-4E7D-8636-2C2DA97A0472}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D00586A9-B5AC-4E7D-8636-2C2DA97A0472}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D00586A9-B5AC-4E7D-8636-2C2DA97A0472}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D00586A9-B5AC-4E7D-8636-2C2DA97A0472}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
