@@ -1,13 +1,17 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31911.196
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Purse", "Purse\Purse.csproj", "{9A1FCFEB-9498-4418-854D-EEDFB8F7351A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebitCard", "DebitCard\DebitCard.csproj", "{05CE6E6E-C52B-4AC2-B9F7-A367EFD4B3B7}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto", "Crypto\Crypto.csproj", "{6B14281A-6536-4752-ADCD-EDB4C1C19783}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCard", "CreditCard\CreditCard.csproj", "{D8234DE2-64F2-4F0E-85FE-071E917C54C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCard", "CryptoCard\CryptoCard.csproj", "{6D47FFA2-9695-468A-BBC9-27908836644D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,10 @@ Global
 		{D8234DE2-64F2-4F0E-85FE-071E917C54C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8234DE2-64F2-4F0E-85FE-071E917C54C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8234DE2-64F2-4F0E-85FE-071E917C54C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D47FFA2-9695-468A-BBC9-27908836644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D47FFA2-9695-468A-BBC9-27908836644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D47FFA2-9695-468A-BBC9-27908836644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D47FFA2-9695-468A-BBC9-27908836644D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
